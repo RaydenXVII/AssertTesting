@@ -1,1 +1,1 @@
-{"version":1,"defects":{"CalculatorTest::testBagiDenganNol":7},"times":{"CalculatorTest::testTambah":0.016,"CalculatorTest::testKurang":0.001,"CalculatorTest::testKali":0,"CalculatorTest::testBagi":0,"CalculatorTest::testBagiDenganNol":0.059}}
+{"version":1,"defects":{"CalculatorTest::testBagiDenganNol":7},"times":{"CalculatorTest::testTambah":0.183,"CalculatorTest::testKurang":0,"CalculatorTest::testKali":0,"CalculatorTest::testBagi":0,"CalculatorTest::testBagiDenganNol":0.37}}
